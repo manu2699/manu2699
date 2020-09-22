@@ -4,9 +4,11 @@
 
 I'm [Maneesh](https://maneeshk.now.sh), a Web Developer / Designer based in
 Chennai, India. I have passion for web development and love to create web and
-mobile applications using web stack. You can find me on [![LinkedIn][1.1]][1].
+mobile applications using web stack.
 
+#### Find me on [![LinkedIn][1.1]][1].
 #### <a href="mailto:maneeshvijaykar@gmail.com">Mail me 📫</a>
+
 
 ## Skill {...Set} 🔧
 
