@@ -1,8 +1,8 @@
-[![Header](https://raw.githubusercontent.com/manu2699/manu2699/master/Header.gif "Hero")](https://maneeshk.now.sh)
 
-# Hi, There! <img src="https://raw.githubusercontent.com/manu2699/manu2699/master/wave.gif" width="50px">
+# < Hi, There! 👋 />
 
-### I'm [Maneesh](https://maneeshk.now.sh), a Web Developer / Designer based in Chennai, India. I have passion for web development and love to create web and mobile applications using web stack.
+### I'm [Maneesh](https://maneeshk.now.sh), Software Engineer building lowcode platform in kissflow
+#### I 💖 to create web & mobile applications using web stack
 
 <a href="https://www.linkedin.com/in/manuvk" alt="LinkedIn">
 	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />
